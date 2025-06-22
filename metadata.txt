@@ -1,18 +1,18 @@
 [general]
 name=DesagregaBiomasBR
 qgisMinimumVersion=3.0
-description=Assistente para seleção e desagregação de dados PRODES, DETER ou TERRACLASS por região ou recorte espacial
+description=Assistente para seleção e desagregação de dados ambientais brasileiros (PRODES, DETER, TERRACLASS, ÁREA QUEIMADA)
 version=1.0.0
-author=DesagregaBiomasBR Team
-email=contato@exemplo.com
+author= Denilson Passo
+email=geodenilson@gmail.com
 
-about=Este plugin auxilia na seleção e desagregação de dados PRODES, DETER ou TERRACLASS por região ou recorte espacial através de um assistente guiado intuitivo.
+about=Plugin que oferece um assistente guiado para seleção e desagregação de dados ambientais brasileiros por região ou recorte espacial. Facilita o acesso e processamento de dados oficiais dos principais programas de monitoramento ambiental do Brasil: PRODES (desmatamento), DETER (alertas), TERRACLASS (uso da terra) e ÁREA QUEIMADA (queimadas). Inclui opções avançadas de corte espacial e múltiplos formatos de saída.
 
-tracker=https://github.com/exemplo/DesagregaBiomasBR/issues
-repository=https://github.com/exemplo/DesagregaBiomasBR
-homepage=https://github.com/exemplo/DesagregaBiomasBR
+tracker=https://github.com/geodenilson/DesagregaBiomasBR/issues
+repository=https://github.com/geodenilson/DesagregaBiomasBR
+homepage=https://github.com/geodenilson/DesagregaBiomasBR
 
-tags=bioma, prodes, deter, terraclass, desmatamento, brazil, brasil
+tags=environment,brazil,deforestation,monitoring,prodes,deter,terraclass,biome,inpe,analysis
 
 category=Analysis
 
@@ -25,6 +25,8 @@ hasProcessingProvider=no
 changelog=
     1.0.0 - Versão inicial
     - Assistente guiado em três etapas
-    - Suporte para PRODES, DETER e TERRACLASS
+    - Suporte para PRODES, DETER, TERRACLASS e ÁREA QUEIMADA
     - Múltiplas opções de corte espacial
-    - Interface responsiva e intuitiva 
+    - Formatos Shapefile e GeoPackage
+    - Interface responsiva e intuitiva
+    - Sistema de metadados completos 
