@@ -306,6 +306,7 @@ Agradecimentos especiais às instituições que disponibilizam dados públicos:
 - **EMBRAPA** - Empresa Brasileira de Pesquisa Agropecuária  
 - **IBGE** - Instituto Brasileiro de Geografia e Estatística
 - **LASA-UFRJ** - Laboratório de Aplicações de Satélites Ambientais
+- **FAO** - Organização das Nações Unidas para Alimentação e Agricultura
 
 E à comunidade QGIS pelo excelente framework de desenvolvimento de plugins! 🗺️
 
