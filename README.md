@@ -301,7 +301,7 @@ Para dúvidas ou problemas:
 
 ## 🙏 **Agradecimentos**
 
-Agradecimentos especiais às instituições que disponibilizam dados públicos:
+Agradecimentos especiais às instituições que disponibilizam dados públicos e financiaram essa pesquisa:
 - **INPE** - Instituto Nacional de Pesquisas Espaciais
 - **EMBRAPA** - Empresa Brasileira de Pesquisa Agropecuária  
 - **IBGE** - Instituto Brasileiro de Geografia e Estatística
