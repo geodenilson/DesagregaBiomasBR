@@ -299,6 +299,16 @@ Para dúvidas ou problemas:
 - Consulte os logs de debug do QGIS
 - Verifique a documentação das fontes de dados originais
 
+## 🙏 **Agradecimentos**
+
+Agradecimentos especiais às instituições que disponibilizam dados públicos:
+- **INPE** - Instituto Nacional de Pesquisas Espaciais
+- **EMBRAPA** - Empresa Brasileira de Pesquisa Agropecuária  
+- **IBGE** - Instituto Brasileiro de Geografia e Estatística
+- **LASA-UFRJ** - Laboratório de Aplicações de Satélites Ambientais
+
+E à comunidade QGIS pelo excelente framework de desenvolvimento de plugins! 🗺️
+
 ---
 
 **Desenvolvido para facilitar o acesso aos dados de monitoramento ambiental do Brasil** 🇧🇷 
