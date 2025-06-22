@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="/plugins/desagregabiomasbr" >
+    <file>icones/mapa.png</file>
+    <file>icones/layers.png</file>
+    <file>icones/prodes.png</file>
+    <file>icones/deter.png</file>
+    <file>icones/terraclass.png</file>
+  </qresource>
+</RCC> 

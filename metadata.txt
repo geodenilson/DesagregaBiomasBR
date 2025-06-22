@@ -1,0 +1,30 @@
+[general]
+name=DesagregaBiomasBR
+qgisMinimumVersion=3.0
+description=Assistente para seleção e desagregação de dados PRODES, DETER ou TERRACLASS por região ou recorte espacial
+version=1.0.0
+author=DesagregaBiomasBR Team
+email=contato@exemplo.com
+
+about=Este plugin auxilia na seleção e desagregação de dados PRODES, DETER ou TERRACLASS por região ou recorte espacial através de um assistente guiado intuitivo.
+
+tracker=https://github.com/exemplo/DesagregaBiomasBR/issues
+repository=https://github.com/exemplo/DesagregaBiomasBR
+homepage=https://github.com/exemplo/DesagregaBiomasBR
+
+tags=bioma, prodes, deter, terraclass, desmatamento, brazil, brasil
+
+category=Analysis
+
+icon=icones/mapa.png
+experimental=False
+deprecated=False
+
+hasProcessingProvider=no
+
+changelog=
+    1.0.0 - Versão inicial
+    - Assistente guiado em três etapas
+    - Suporte para PRODES, DETER e TERRACLASS
+    - Múltiplas opções de corte espacial
+    - Interface responsiva e intuitiva 

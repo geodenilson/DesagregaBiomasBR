@@ -1,0 +1,81 @@
+═════════════════════════════════════════════════════════════════════════════════
+PLUGIN DESAGREGABIOMASBR
+INSTRUÇÕES DE INSTALAÇÃO
+                        
+Dr. Denilson Passo | geodenilson@gmail.com
+GitHub: github.com/geodenilson/DesagregaBiomasBR
+═════════════════════════════════════════════════════════════════════════════════
+
+🌿 SOBRE O PLUGIN
+-----------------
+Plugin para QGIS que facilita o download e processamento de dados dos principais 
+sistemas de monitoramento ambiental brasileiro:
+
+• PRODES - Dados de desmatamento por bioma
+• DETER - Alertas de desmatamento em tempo real  
+• ÁREAS QUEIMADAS - Áreas queimadas
+
+🔧 REQUISITOS
+-------------
+✅ QGIS 3.16 ou superior
+✅ Conexão com internet
+✅ Windows/Linux/Mac
+
+🔄 SE TEM UMA VERSÃO ANTIGA INSTALADA
+----------------------------------------
+⚠️ IMPORTANTE: Remova a versão antiga antes de instalar a nova!
+
+1. ABRA O QGIS
+
+2. ACESSE O GERENCIADOR DE PLUGINS
+   • Menu: Plugins → Gerenciar e Instalar Plugins
+
+3. LOCALIZE O PLUGIN ANTIGO
+   • Aba "Instalados"
+   • Procure por "DesagregaBiomasBR" na lista
+   • Ou use a caixa de busca para encontrar mais rápido
+
+4. DESINSTALE A VERSÃO ANTIGA
+   • Selecione o plugin DesagregaBiomasBR
+   • Clique no botão "Desinstalar Plugin"
+   • Confirme a desinstalação quando solicitado
+
+5. REINICIE O QGIS
+   • Feche completamente o QGIS
+   • Abra novamente para garantir limpeza completa
+
+6. PROSSIGA COM A INSTALAÇÃO
+   • Agora siga os passos normais de instalação abaixo
+
+
+📦 INSTALAÇÃO
+----------------
+1. ABRA O QGIS
+
+2. MENU PLUGINS
+   • Plugins → Gerenciar e Instalar Plugins
+
+3. INSTALAR DO ZIP
+   • Aba "Instalar do ZIP"
+   • Selecione o arquivo DesagregaBiomasBR_v1.1.zip
+   • Clique "Instalar Plugin"
+
+4. ATIVAR
+   • Aba "Instalados" 
+   • Marque ✅ DesagregaBiomasBR
+   • Feche a janela
+
+5. VERIFICAR
+   • Procure o ícone do mapa na barra de ferramentas
+   • Ou menu Plugins → DesagregaBiomasBR
+
+🚀 PRONTO PARA USAR!
+--------------------
+Clique no ícone do plugin para acessar dados dos biomas brasileiros.
+
+═════════════════════════════════════════════════════════════════════════════════
+⚠️  PROBLEMAS?
+- Reinicie o QGIS após a instalação
+- Verifique conexão com internet
+- Contato: geodenilson@gmail.com (61) 9 9188-0693
+═════════════════════════════════════════════════════════════════════════════════
