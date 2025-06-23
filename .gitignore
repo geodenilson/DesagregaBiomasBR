@@ -75,4 +75,14 @@ htmlcov/
 
 # Arquivos específicos do projeto (se necessário)
 # config.ini
-# credentials.txt 
+# credentials.txt
+
+# Shapefiles locais (muito grandes para repositório)
+shapefile/
+*.shp
+*.dbf
+*.shx
+*.prj
+*.sbn
+*.sbx
+*.cpg 

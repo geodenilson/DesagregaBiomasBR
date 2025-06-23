@@ -17,6 +17,7 @@ tags=environment,brazil,deforestation,monitoring,prodes,deter,terraclass,biome,i
 category=Analysis
 
 icon=icones/mapa.png
+license=GPL-3.0
 experimental=False
 deprecated=False
 
